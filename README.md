@@ -5,3 +5,7 @@
 In this repository, I collect some notes from my own experiences that may help one or the other.
 
 Disclaimer: This is not official PyViz documentation. When in doubt, refer to [their website](http://pyviz.org) or any of their other channels. PyViz is evolving rapidly and so information given here may become outdated.
+
+Contents:
+
+1. [Data formats and declaration of dimensions](https://nbviewer.jupyter.org/github/poplarShift/pyviz-recipes/blob/master/notebooks/data_formats.ipynb)
