@@ -9,3 +9,5 @@ Disclaimer: This is not official PyViz documentation. When in doubt, refer to [t
 Contents:
 
 1. [Data formats and declaration of dimensions](https://nbviewer.jupyter.org/github/poplarShift/pyviz-recipes/blob/master/notebooks/data_formats.ipynb)
+
+2. [Faceting data and styling by attribute](https://nbviewer.jupyter.org/github/poplarShift/pyviz-recipes/blob/master/notebooks/styling_by_attribute.ipynb)
