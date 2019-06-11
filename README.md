@@ -6,10 +6,12 @@ In this repository, I collect some notes from my own experiences that may help o
 
 Disclaimer: This is not official PyViz documentation. When in doubt, refer to [their website](http://pyviz.org) or any of their other channels. PyViz is evolving rapidly and so information given here may become outdated.
 
-Contents:
+Contents, in somewhat random order:
 
 1. [Faceting data and styling by attribute](https://nbviewer.jupyter.org/github/poplarShift/pyviz-recipes/blob/master/notebooks/styling_by_attribute.ipynb)
 
 1. [Switching between plotting backends](https://nbviewer.jupyter.org/github/poplarShift/pyviz-recipes/blob/master/notebooks/switching_backends.ipynb)
 
 1. [Data formats and declaration of dimensions](https://nbviewer.jupyter.org/github/poplarShift/pyviz-recipes/blob/master/notebooks/data_formats.ipynb)
+
+1. [Setting style defaults](https://nbviewer.jupyter.org/github/poplarShift/pyviz-recipes/blob/master/notebooks/default_styling.ipynb)
