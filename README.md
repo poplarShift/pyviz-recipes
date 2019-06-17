@@ -15,3 +15,5 @@ Contents, in somewhat random order:
 1. [Data formats and declaration of dimensions](https://nbviewer.jupyter.org/github/poplarShift/pyviz-recipes/blob/master/notebooks/data_formats.ipynb)
 
 1. [Setting style defaults](https://nbviewer.jupyter.org/github/poplarShift/pyviz-recipes/blob/master/notebooks/default_styling.ipynb)
+
+1. [Let's make our own element](https://nbviewer.jupyter.org/github/poplarShift/pyviz-recipes/blob/master/notebooks/custom_elements.ipynb) or modify an existing one such as `hv.Curve`
