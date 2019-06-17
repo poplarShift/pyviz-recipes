@@ -4,6 +4,8 @@
 
 In this repository, I am collecting some notes from my own experiences that may help one or the other. This is ongoing work.
 
+You may also find some hopefully useful/instructive functions in [my utils' holoviews module](https://github.com/poplarShift/python-data-science-utils/tree/master/utils/holoviews).
+
 Disclaimer: This is not official PyViz documentation. When in doubt, refer to [their website](http://pyviz.org) or any of their other channels. PyViz is evolving rapidly and so information given here may become outdated.
 
 Contents, in somewhat random order:
