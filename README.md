@@ -8,7 +8,7 @@ You may also find some hopefully useful/instructive functions in [my utils' holo
 
 Disclaimer: This is not official PyViz documentation. When in doubt, refer to [their website](http://pyviz.org) or any of their other channels. PyViz is evolving rapidly and so information given here may become outdated.
 
-Contents, in somewhat random order:
+Contents, in somewhat random order, and not necessarily up to date relative to whats in `notebooks`:
 
 1. [Faceting data and styling by attribute](https://nbviewer.jupyter.org/github/poplarShift/pyviz-recipes/blob/master/notebooks/styling_by_attribute.ipynb)
 
